@@ -1,5 +1,7 @@
 package view;
 
+//Apenas para fins de teste do GitHub
+
 import java.util.concurrent.Semaphore;
 
 import controller.CarParkThread;
